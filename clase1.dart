@@ -19,7 +19,7 @@ class figura {
         int perimetro = 2 * _largo + 2 * _ancho;
         print("Perimetro: $perimetro");
     } //Clase figura
-} 
+} //Fin de la clase figura
 
 void main() {
     print("Diego Jesus Rodriguez Chavez. Mat 22308051281296. Gpo 6-J");
