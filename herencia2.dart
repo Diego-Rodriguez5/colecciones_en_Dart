@@ -173,6 +173,7 @@ class Diego extends Clientes {
 }
 
 void main() {
+    print("Diego Jesus Rodriguez Chavez. Mat 22308051281296. Gpo 6-J");
   // Crear una instancia de Proveedores
   Proveedores proveedor = Proveedores(
     id_proveedores: 1,

@@ -7,4 +7,4 @@ y una clase perro con herencia animal con 2 funciones: ladra(), corre(), utiliza
 
 - Herencia 2 con clase Proveedores y Clientes
 
-![alt text](image-2.png)
+![alt text](image-3.png)
